@@ -6,6 +6,9 @@ A complete web-based vendor management platform built for pharmacy and retail st
 
 This platform allows vendors to manage inventory, billing, online orders, purchases, employees, reports, payments, and business operations from a centralized dashboard.
 
+##Live Software
+https://www.gogenericpharma.com/login/store
+
 ## Features
 
 ### Dashboard
